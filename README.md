@@ -116,5 +116,3 @@ Este estudo demonstrou como a análise de regressão pode ser utilizada para ent
 5. **Reflexões**: Interpretação dos resultados e contribuição do estudo.
 6. **Aprendizados**: Insights obtidos durante o estudo.
 7. **Implementação**: Código detalhado para replicação do estudo.
-8. **Contato**: Informações para contato.
-9. **Licença**: Informação sobre a licença do projeto.
